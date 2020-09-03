@@ -8,8 +8,9 @@ Terraform is a tool for building, changing, and versioning infrastructure safely
 
 * Terraform Workflow
 
+* Terraform Commands
 
-First Header | Second Header
+Command      | Use to
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+terraform init | 
+terraform plan | 
