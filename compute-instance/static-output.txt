@@ -1,0 +1,3 @@
+Outputs:
+
+instance_static_ip = "00.00.00.00"
